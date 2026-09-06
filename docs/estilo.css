@@ -172,3 +172,5 @@ footer { border-top: var(--border); padding: 36px 0 110px; color: var(--muted); 
 
 /* En pantallas angostas el botón flotante tapaba texto; la barra de pasos y los enlaces «Seguir al paso» ya cubren la navegación. */
 @media (max-width: 899px) { .back-top { display: none; } }
+
+.dedicatoria { font-size: 1.15em; font-weight: 700; color: var(--teal); margin-bottom: .6em; }
