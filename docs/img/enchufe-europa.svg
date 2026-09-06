@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" role="img" aria-labelledby="title"><title id="title">Clavija plana, adaptador y toma de dos huecos redondos</title><style>text{font-family:"Atkinson Hyperlegible",system-ui,sans-serif;font-size:22px;fill:#1B2430} .label{font-weight:700} .small{font-size:20px} .body{fill:#FFFFFF;stroke:#1B2430;stroke-width:3} .screen{fill:#E6F4F4;stroke:#0B6B70;stroke-width:3} .line{fill:none;stroke:#0B6B70;stroke-width:3;stroke-linecap:round;stroke-linejoin:round} .red{fill:#D93F2B} .arrow{fill:none;stroke:#0B6B70;stroke-width:3;marker-end:url(#arrow)} </style><defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#0B6B70"/></marker></defs>
+<text x="24" y="38" class="label">Prepara el adaptador de clavija</text>
+<rect x="21" y="117" width="76" height="86" rx="15" class="body"/><path d="M97 139h29v9H97m0 27h29v9H97" class="body"/><path d="M21 161H6" class="line"/>
+<path d="M135 161h29" class="arrow"/>
+<rect x="178" y="112" width="90" height="96" rx="15" class="screen"/><path d="M199 142v30m33-30v30" class="line"/><rect x="268" y="134" width="28" height="9" rx="4" class="body"/><rect x="268" y="178" width="28" height="9" rx="4" class="body"/>
+<path d="M305 161h28" class="arrow"/>
+<rect x="349" y="110" width="110" height="104" rx="15" class="body"/><circle cx="404" cy="162" r="42" class="screen"/><circle cx="385" cy="162" r="7" fill="#1B2430"/><circle cx="423" cy="162" r="7" fill="#1B2430"/>
+<text x="76" y="252" text-anchor="middle" class="small">Clavija plana</text><text x="237" y="252" text-anchor="middle" class="small">Adaptador</text><text x="405" y="252" text-anchor="middle" class="small">Toma</text><text x="405" y="278" text-anchor="middle" class="small">redonda</text>
+<text x="24" y="327">Dos patas redondas · tipo C/E</text><text x="24" y="359">230 V</text>
+</svg>

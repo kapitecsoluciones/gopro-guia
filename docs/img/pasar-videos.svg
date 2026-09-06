@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 420" role="img" aria-labelledby="title"><title id="title">Tres formas de pasar tus videos</title><style>text{font-family:"Atkinson Hyperlegible",system-ui,sans-serif;font-size:22px;fill:#1B2430} .label{font-weight:700} .small{font-size:20px} .body{fill:#FFFFFF;stroke:#1B2430;stroke-width:3} .screen{fill:#E6F4F4;stroke:#0B6B70;stroke-width:3} .line{fill:none;stroke:#0B6B70;stroke-width:3;stroke-linecap:round;stroke-linejoin:round} .red{fill:#D93F2B} .arrow{fill:none;stroke:#0B6B70;stroke-width:3;marker-end:url(#arrow)} </style><defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#0B6B70"/></marker></defs>
+<text x="240" y="32" text-anchor="middle" class="label">Tres caminos</text>
+<path d="M161 65V391M319 65V391" fill="none" stroke="#0B6B70" stroke-width="1"/>
+<text x="81" y="73" text-anchor="middle" class="label">A · Cable</text><text x="240" y="73" text-anchor="middle" class="label">B · Wi-Fi</text><text x="399" y="73" text-anchor="middle" class="label">C · Lector</text>
+<rect x="37" y="101" width="88" height="57" rx="10" class="body"/><circle cx="102" cy="126" r="14" class="screen"/><rect x="48" y="117" width="31" height="23" rx="3" class="screen"/>
+<rect x="196" y="101" width="88" height="57" rx="10" class="body"/><circle cx="261" cy="126" r="14" class="screen"/><rect x="207" y="117" width="31" height="23" rx="3" class="screen"/>
+<path d="M379 103H408L426 121V163H372V110Z" class="screen"/><text x="399" y="145" text-anchor="middle" class="small">SD</text>
+<path d="M81 172V218" class="arrow"/><path d="M240 172V218" class="arrow"/><path d="M399 172V218" class="arrow"/>
+<path d="M51 246h59m-59-10v20m59-20v20" class="line"/><text x="81" y="289" text-anchor="middle" class="small">USB-C</text>
+<path d="M210 248q30-35 60 0m-48 9q18-23 36 0m-26 10q8-11 16 0" class="line"/>
+<rect x="361" y="235" width="77" height="36" rx="5" class="body"/><path d="M374 249h37" class="line"/><text x="399" y="294" text-anchor="middle" class="small">Lector</text>
+<rect x="57" y="310" width="48" height="66" rx="6" class="screen"/><path d="M71 365h20" class="line"/>
+<rect x="216" y="310" width="48" height="66" rx="6" class="screen"/><path d="M230 365h20" class="line"/>
+<rect x="358" y="315" width="82" height="50" rx="5" class="screen"/><path d="M350 375h98" class="line"/>
+<text x="81" y="404" text-anchor="middle" class="small">Teléfono</text><text x="240" y="404" text-anchor="middle" class="small">Teléfono</text><text x="399" y="404" text-anchor="middle" class="small">Computadora</text>
+</svg>

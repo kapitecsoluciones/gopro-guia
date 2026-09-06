@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 340" role="img" aria-labelledby="title"><title id="title">Tu lista antes de salir</title><style>text{font-family:"Atkinson Hyperlegible",system-ui,sans-serif;font-size:22px;fill:#1B2430} .label{font-weight:700} .small{font-size:20px} .body{fill:#FFFFFF;stroke:#1B2430;stroke-width:3} .screen{fill:#E6F4F4;stroke:#0B6B70;stroke-width:3} .line{fill:none;stroke:#0B6B70;stroke-width:3;stroke-linecap:round;stroke-linejoin:round} .red{fill:#D93F2B} .arrow{fill:none;stroke:#0B6B70;stroke-width:3;marker-end:url(#arrow)} </style><defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#0B6B70"/></marker></defs>
+<rect x="77" y="34" width="326" height="280" rx="20" class="body"/>
+<rect x="171" y="21" width="138" height="39" rx="12" class="screen"/>
+<text x="240" y="104" text-anchor="middle" class="label">Antes de salir</text>
+<rect x="111" y="132" width="36" height="36" rx="7" class="screen"/><path d="m118 150 8 9 14-20" class="line"/>
+<text x="166" y="158">Memoria lista</text>
+<rect x="111" y="191" width="36" height="36" rx="7" class="body"/><text x="166" y="217">Batería al 100 %</text>
+<rect x="111" y="250" width="36" height="36" rx="7" class="body"/><text x="166" y="276">Cable y adaptador</text>
+</svg>

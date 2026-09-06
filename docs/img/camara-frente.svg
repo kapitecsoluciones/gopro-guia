@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 490" role="img" aria-labelledby="title"><title id="title">Conoce los dos botones y la parte frontal de tu cámara</title><style>text{font-family:"Atkinson Hyperlegible",system-ui,sans-serif;font-size:22px;fill:#1B2430} .label{font-weight:700} .small{font-size:20px} .body{fill:#FFFFFF;stroke:#1B2430;stroke-width:3} .screen{fill:#E6F4F4;stroke:#0B6B70;stroke-width:3} .line{fill:none;stroke:#0B6B70;stroke-width:3;stroke-linecap:round;stroke-linejoin:round} .red{fill:#D93F2B} .arrow{fill:none;stroke:#0B6B70;stroke-width:3;marker-end:url(#arrow)} </style><defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#0B6B70"/></marker></defs>
+<text x="30" y="40" class="label">Botón Obturador (arriba)</text>
+<path d="M235 53V100" class="arrow"/>
+<rect x="187" y="106" width="79" height="23" rx="9" class="body"/><circle cx="226" cy="117" r="7" class="red"/>
+<rect x="59" y="132" width="354" height="222" rx="29" class="body"/>
+<rect x="77" y="184" width="128" height="119" rx="10" class="screen"/>
+<path d="M91 275 121 241 139 257 163 218 192 275" class="line"/>
+<rect x="232" y="158" width="155" height="150" rx="21" class="body"/>
+<circle cx="309" cy="233" r="51" class="screen"/><circle cx="309" cy="233" r="32" class="body"/>
+<circle cx="104" cy="158" r="7" class="red"/>
+<rect x="413" y="218" width="21" height="51" rx="8" class="screen"/>
+<path d="M423 228v12m-6-8a10 10 0 1 0 12 0" class="line"/>
+<text x="24" y="102" class="small">Luz de estado</text><path d="M94 110 103 142" class="arrow"/>
+<path d="M125 307V380H32" class="line"/><text x="26" y="409">Pantalla frontal</text>
+<path d="M310 313V379H357" class="line"/><text x="351" y="409">Lente</text>
+<path d="M432 275 452 316V441H320" class="line"/>
+<text x="28" y="467" class="label">Botón Modo (costado)</text>
+</svg>

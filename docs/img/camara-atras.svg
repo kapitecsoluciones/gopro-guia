@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 490" role="img" aria-labelledby="title"><title id="title">Pantalla táctil y cuatro gestos de Controles Fácil</title><style>text{font-family:"Atkinson Hyperlegible",system-ui,sans-serif;font-size:22px;fill:#1B2430} .label{font-weight:700} .small{font-size:20px} .body{fill:#FFFFFF;stroke:#1B2430;stroke-width:3} .screen{fill:#E6F4F4;stroke:#0B6B70;stroke-width:3} .line{fill:none;stroke:#0B6B70;stroke-width:3;stroke-linecap:round;stroke-linejoin:round} .red{fill:#D93F2B} .arrow{fill:none;stroke:#0B6B70;stroke-width:3;marker-end:url(#arrow)} </style><defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#0B6B70"/></marker></defs>
+<text x="240" y="35" text-anchor="middle" class="label">Pantalla trasera táctil</text>
+<text x="240" y="82" text-anchor="middle">Desliza abajo: Panel</text><path d="M240 96V154" class="arrow"/>
+<rect x="34" y="169" width="412" height="235" rx="24" class="body"/>
+<rect x="51" y="185" width="378" height="201" rx="12" class="screen"/>
+<text x="68" y="214" class="small">9H:59</text><text x="240" y="214" text-anchor="middle" class="label">VÍDEO</text><text x="414" y="214" text-anchor="end" class="small">100 %</text>
+<path d="M120 270H67M360 270H413" class="arrow"/>
+<text x="240" y="265" text-anchor="middle" class="label">← Modos →</text>
+<text x="240" y="296" text-anchor="middle" class="small">Video · Foto · Secuencia</text>
+<rect x="109" y="324" width="264" height="44" rx="20" class="body"/>
+<text x="240" y="353" text-anchor="middle">Vídeo estándar</text>
+<path d="M240 449V414" class="arrow"/><text x="240" y="478" text-anchor="middle">Desliza arriba: galería</text>
+</svg>
